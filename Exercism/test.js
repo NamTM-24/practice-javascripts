@@ -1,0 +1,3 @@
+function isNonEmptyArray(value) {
+  return;
+}
